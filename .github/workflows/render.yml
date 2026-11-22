@@ -1,0 +1,28 @@
+name: Rendu des visuels
+on:
+  push:
+    paths: ['plans/*.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: render
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install playwright==1.48.0 && python -m playwright install --with-deps chromium
+      - name: Rendre les plans modifiés
+        run: |
+          for f in $(git diff --name-only HEAD~1 HEAD -- 'plans/*.json'); do
+            [ -f "$f" ] && python render.py "$f"
+          done
+      - name: Publier les images
+        run: |
+          git config user.name "sportscast-bot"
+          git config user.email "bot@sportscast.studio"
+          git add images
+          git diff --cached --quiet || (git commit -m "Visuels rendus" && git push)
