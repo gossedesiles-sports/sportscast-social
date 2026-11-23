@@ -9,6 +9,28 @@
         "images/2026-11-23/mardi-a-decouvrir-tailgate-post.png",
         "images/2026-11-23/mardi-a-decouvrir-tailgate-story.png"
       ]
+    },
+    {
+      "slug": "jeudi-carrousel",
+      "series": "selection",
+      "caption": "Quatre sports, quatre podcasts.\n\n1. Rugby Confidential\n2. SANS FILET\n3. Basket Time\n4. Le Trail Qu’on Aime\n\n🎧 Écoute gratuite sur sportscast.studio (lien en bio)\n\n#podcast #sport #sportscast",
+      "files": [
+        "images/2026-11-23/jeudi-carrousel-carrousel-01.png",
+        "images/2026-11-23/jeudi-carrousel-carrousel-02.png",
+        "images/2026-11-23/jeudi-carrousel-carrousel-03.png",
+        "images/2026-11-23/jeudi-carrousel-carrousel-04.png",
+        "images/2026-11-23/jeudi-carrousel-carrousel-05.png",
+        "images/2026-11-23/jeudi-carrousel-carrousel-06.png"
+      ]
+    },
+    {
+      "slug": "vendredi-weekend-paddock-rmc",
+      "series": "weekend",
+      "caption": "GP du Qatar · dimanche 17 h. Pour ton week-end, on te conseille Le Paddock RMC.\n\n🎧 Écoute gratuite sur sportscast.studio (lien en bio)\n\n#podcast #formule1 #sportscast",
+      "files": [
+        "images/2026-11-23/vendredi-weekend-paddock-rmc-post.png",
+        "images/2026-11-23/vendredi-weekend-paddock-rmc-story.png"
+      ]
     }
   ],
   "errors": []
