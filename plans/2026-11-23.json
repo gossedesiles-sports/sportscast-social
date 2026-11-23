@@ -2,5 +2,15 @@
 {"slug":"mardi-a-decouvrir-tailgate","series":"decouvrir","sport":"Football américain","headline":0,"tagline":0,
  "name":"Tailgate","line2":"Toute l’actu NFL et du foot US en France, décryptée chaque semaine.",
  "handle":"","url":"https://sportscast.studio/podcasts/125",
- "cover":"https://image.ausha.co/7Z0wrTUqiRPQT5As9cqFyIF6vqLrf5mIvxyE0v4t_1400x1400.jpeg?t=1772551009"}
+ "cover":"https://image.ausha.co/7Z0wrTUqiRPQT5As9cqFyIF6vqLrf5mIvxyE0v4t_1400x1400.jpeg?t=1772551009"},
+{"slug":"jeudi-carrousel","series":"selection","sport":"__multi","headline":"Quatre sports, quatre podcasts.","tagline":1,"items":[
+ {"name":"Rugby Confidential","line2":"Gaël Fickou, Nogodi et Sacha Valleau refont le match du XV de France.","handle":"","sport":"Rugby","url":"https://sportscast.studio/podcasts/14","cover":"https://static.audiomeans.fr/img/podcast/55c4663e-1360-40ea-807b-a4ed50080fb2.jpg"},
+ {"name":"SANS FILET","line2":"L’équipe tennis de Winamax TV décrypte la fin de saison sur le circuit.","handle":"","sport":"Tennis","url":"https://sportscast.studio/podcasts/22","cover":"https://medias.podcastics.com/podcastics/podcasts/artwork/sans-filet.png.dc4fdab3700e6d44bf223096d70f2550.png"},
+ {"name":"Basket Time","line2":"Pierre Dorian, Fred Weis et Stephen Brun donnent tout sur le basket.","handle":"","sport":"Basketball","url":"https://sportscast.studio/podcasts/27","cover":"https://image.simplecastcdn.com/images/1fd73afa-ad51-414f-aa4b-53e39be70a2e/a117918b-96ce-4a82-8c7f-7a84357e0b12/3000x3000/1400_podcasts_baskettime_2025.jpg?aid=rss_feed"},
+ {"name":"Le Trail Qu’on Aime","line2":"Athlètes, coachs et kiné décryptent l’actu du trail, deux fois par mois.","handle":"","sport":"Trail","url":"https://sportscast.studio/podcasts/63","cover":"https://storage.buzzsprout.com/e1g5cdfyykfm5cbz5rd2aonabw7x?.jpg"}
+]},
+{"slug":"vendredi-weekend-paddock-rmc","series":"weekend","sport":"Formule 1","headline":0,"tagline":2,
+ "name":"Le Paddock RMC","line2":"GP du Qatar · dimanche 17 h",
+ "handle":"","url":"https://sportscast.studio/podcasts/90",
+ "cover":"https://image.simplecastcdn.com/images/458dcd5b-b872-4fac-9d56-7d24de34a30a/09d8d6a5-03bb-4847-8563-38fe4f2513cc/3000x3000/fd54242c-c2d8-493d-bb2b-8d8e2480ae1d.jpg?aid=rss_feed"}
 ]}
